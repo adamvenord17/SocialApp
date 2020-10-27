@@ -15,3 +15,6 @@ This repository is based on my YouTube tutorial series where I'm creating a reac
 
 ### Sign In UI
 ![Sign in UI](https://raw.githubusercontent.com/adamvenord17/SocialApp/master/assets/screenshots/social-login.png)
+
+### Home/Feed Screen UI
+![Home/Feed Screen UI](https://raw.githubusercontent.com/adamvenord17/SocialApp/master/assets/screenshots/social-app-ui.png)
